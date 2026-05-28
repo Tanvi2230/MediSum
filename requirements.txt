@@ -1,0 +1,7 @@
+Flask
+gunicorn
+requests
+pdfplumber
+Pillow
+Werkzeug
+google-genai
